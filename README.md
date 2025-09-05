@@ -80,3 +80,6 @@ This repository may contain sensitive financial and client data. Please ensure:
 ✅ Data handling complies with privacy policies and regulations
 
 🧼 Anonymize client data before public sharing**
+
+Author 🧑‍💻
+Prabal Tripathi 
